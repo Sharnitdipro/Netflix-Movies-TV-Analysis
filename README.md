@@ -32,10 +32,9 @@ This project dives deep into **Netflix's extensive dataset** of movies and TV sh
 - Identified the strongest actor partnerships.  
 
 ---
-
 ## 📂 Dataset Information  
-- **Source:** Netflix Movies & TV Shows Dataset  
-- **Size:** 📄 Includes thousands of movies & TV shows  
+This project uses the **Netflix Movies & TV Shows Dataset** from Kaggle.  
+🔗 [Download the dataset from Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **Features:**  
   - 🎬 `title` – Name of the Movie/TV Show  
   - 📅 `release_year` – Year of Release  
